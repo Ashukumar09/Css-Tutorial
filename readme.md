@@ -1,0 +1,1 @@
+This a CSS tutorial for a beginners.
